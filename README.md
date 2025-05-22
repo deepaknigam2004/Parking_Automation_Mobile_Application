@@ -27,9 +27,10 @@ A cross-platform mobile application developed using **Flutter** to streamline pa
 
 > *(Add your app screenshots here)*
 ## 📱 Screenshots
+![Screenshot1](https://github.com/user-attachments/assets/9cbb9298-5c14-4a84-89b5-d4a4cfa158f6)
+![Screenshot2](https://github.com/user-attachments/assets/73536c78-ad5a-423e-9d97-86932d5e07b3)
 
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
+
 
 
 
