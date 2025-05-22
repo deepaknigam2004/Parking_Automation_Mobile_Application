@@ -1,16 +1,40 @@
-# minor_project
+# 🚗 Parking Automation Mobile Application
 
-A new Flutter project.
+A cross-platform mobile application developed using **Flutter** to streamline parking automation with real-time synchronization using **Firebase**. The app ensures a seamless and consistent experience across both **iOS** and **Android** platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔄 **Cross-Platform Compatibility**: Works smoothly on both iOS and Android.
+- 🎨 **Modern UI/UX**: Clean and user-friendly Flutter-based interface.
+- 🔐 **Firebase Integration**: Real-time database, authentication, and cloud functions.
+- 📅 **Efficient Project Management**: Timely deliveries with maintained design quality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** - UI Toolkit for cross-platform development
+- **Firebase** - Backend (Authentication, Firestore, Realtime Database, Cloud Functions)
+- **Dart** - Programming Language
+- **Android Studio / Xcode** - Development Tools
+- **GitHub** - Version Control
+
+---
+
+## 📱 Screenshots
+
+> *(Add your app screenshots here)*
+
+
+
+**lib/
+├── main.dart
+├── screens/
+│   └── home_screen.dart
+│   └── booking_screen.dart
+├── widgets/
+│   └── custom_button.dart
+├── services/
+│   └── firebase_service.dart
